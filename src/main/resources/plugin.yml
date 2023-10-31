@@ -1,0 +1,6 @@
+name: RedSun
+main: com.flexingstudios.RedSunPlugin
+version: '${version}'
+description: API for FlexingWorld Servers
+author: FlexingStudios
+depend: [FlexingNetwork]
